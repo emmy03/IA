@@ -1,4 +1,3 @@
-
 import sys
 import random
 import matplotlib.pyplot as plt
@@ -10,6 +9,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 continents = [
     "Paris", "Berlin", "Madrid", "Rome", "Londres", "Amsterdam", "Vienne", "Lisbonne", "Stockholm", "Oslo", "Bruxelles", "Athènes", "Copenhague", "Varsovie", "Budapest", "Prague", "Helsinki", "Dublin", "Zagreb", "Belgrade", "Bucarest", "Sarajevo", "Washington, D.C.", "New York", "Toronto", "Mexico", "Montréal", "Los Angeles", "Vancouver", "Chicago", "San Francisco", "Miami", "Boston", "Houston", "Calgary", "Ottawa", "Dallas", "Philadelphie", "Kingston", "Guatemala", "Buenos Aires", "São Paulo", "Rio de Janeiro", "Lima", "Bogotá", "Santiago", "Caracas", "Quito", "La Paz", "Montevideo", "Asunción", "Georgetown", "Brasília", "Medellín", "Cali", "São Salvador", "Tokyo", "Pékin", "New Delhi", "Séoul", "Bangkok", "Kuala Lumpur", "Hanoï", "Singapour", "Jakarta", "Manille", "Dhaka", "Islamabad", "Karachi", "Lahore", "Tachkent", "Le Caire", "Lagos", "Kinshasa", "Nairobi", "Johannesburg", "Alger", "Addis-Abeba", "Le Cap", "Abidjan", "Dakar", "Accra", "Casablanca", "Tunis", "Luanda", "Kigali", "Douala", "Harare", "Dar es Salaam", "Ouagadougou"
     ]
+
 class algo_genetique():
     def generate_initial_population(villes, population_size):
         population = []
