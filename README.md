@@ -1,6 +1,7 @@
 # IA - Algorithme Génétique pour le TSP
 
-Ce projet implémente un **algorithme génétique** pour résoudre le problème du voyageur de commerce (**TSP**). \\ 
+Ce projet implémente un **algorithme génétique** pour résoudre le problème du voyageur de commerce (**TSP**).
+
 L'objectif est de trouver le chemin le plus court reliant un ensemble de villes en utilisant des techniques comme la sélection, le croisement (PMX) et la mutation.
 
 ## Fonctionnalités
