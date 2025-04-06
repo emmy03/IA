@@ -24,6 +24,6 @@ L'objectif est de trouver le chemin le plus court reliant un ensemble de villes 
 1. Installez les bibliothèques requises avec la commande suivante :
    ```bash
    pip install matplotlib PyQt6 cartopy
-```
+
 ## Auteur
 Projet réalisé dans le cadre de la L3 en Intelligence Artificielle avec [BOUGHRARA Soumaiya](https://github.com/Boughrara-Soumaiya).
